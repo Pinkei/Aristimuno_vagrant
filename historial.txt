@@ -1,0 +1,54 @@
+    1  cd Aristimuno_vagrant/
+    2  ls
+    3  git status
+    4  git config --global user.email "keilasol930@gmail.com"
+    5  git config --global user.name "Pinkei "
+    6  git commit -m "mi primer commit"
+    7  git push
+    8  exit
+    9  ls
+   10  whoami
+   11  pwd
+   12  manman
+   13  man man
+   14  man ls
+   15  ls -la
+   16  echo "hola"
+   17  echo kei
+   18  echo $Home
+   19  echo $HOME
+   20  cd repogit
+   21  ls
+   22  ls -la
+   23  cd ..
+   24  ls
+   25  cat README
+   26  git clone https://github.com/Pinkei/Aristimuno_vagrant.git
+   27  cd Aristimuno_vagrant/
+   28  ls
+   29  history
+   30  history > historial.txt
+   31  ls
+   32  cat historial.txt
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m "Mi primer commit"
+   37  ls
+   38  ls -la
+   39  ssh-keygen -t ed25519
+   40  ls -la
+   41  cd .ssh
+   42  ls
+   43  cat id_ed25519.pub 
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd repogit
+   48  ls
+   49  git clone git@github.com:Pinkei/Aristimuno_vagrant.git
+   50  ls
+   51  cd Aristimuno_vagrant/
+   52  ls
+   53  history
+   54  history > historial.txt
